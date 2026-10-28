@@ -1,0 +1,79 @@
+GİZLİLİK POLİTİKASI
+
+
+
+Son Güncelleme: 28 Ekim 2026
+
+
+
+Bu gizlilik politikası, [Uygulama Adı] ("Uygulama") için geçerlidir. Uygulamayı indirerek veya kullanarak bu şartları kabul etmiş olursunuz.
+
+
+
+1. TOPLANAN BİLGİLER
+
+Uygulamamız, kullanıcı deneyimini iyileştirmek, veri güvenliğini sağlamak ve hizmet kalitesini artırmak amacıyla aşağıdaki bilgileri toplamaktadır:
+
+
+
+A. Kişisel Bilgiler (İsteğe Bağlı)
+
+- Misafir Kullanım: Uygulamamızın tüm temel özelliklerine ve içeriklerine herhangi bir üyelik veya oturum açma zorunluluğu olmadan erişebilirsiniz.
+
+- Oturum Açma ve Kimlik Bilgileri: Google ile Giriş yapmayı tercih etmeniz durumunda, Google hesabınızla ilişkili Ad-Soyad ve E-posta adresi bilgileri toplanır. Bu bilgiler sadece hesabınızı doğrulamak, cihaz değiştirdiğinizde veya uygulamayı silip yüklediğinizde okuma verilerinizi geri yüklemek amacıyla kullanılır.
+
+
+
+B. Kullanım Verileri ve İstatistikler
+
+- Kitap Okuma Verileri: Giriş yapmış kullanıcılar için okunan kitaplar, sayfa ilerlemeleri, ayraçlar, okuma süreleri ve favori listeleri okuma kaldığınız yerden devam edebilmeniz amacıyla bulut veritabanımızda saklanır. Giriş yapmayan kullanıcıların verileri yalnızca cihaz hafızasında tutulur.
+
+- Cihaz Bilgileri ve Teknik Veriler: Hizmet kalitesini artırmak, performans sorunlarını tespit etmek ve reklam sunumu sağlamak amacıyla cihaz modeli, işletim sistemi sürümü ve reklam kimliği (AD_ID) gibi bilgiler toplanabilir.
+
+
+
+1.1 Kullanılan Üçüncü Taraf Hizmetleri
+
+Uygulama, veri işleme ve sunma süreçlerinde aşağıdaki güvenilir servis sağlayıcılarını kullanır:
+
+- Google Firebase (Auth & Firestore): Oturum yönetimi ile okuma geçmişinizin ve uygulama tercihlerinizin bulut üzerinde güvenli bir şekilde senkronize edilmesi için kullanılır.
+
+- Google Firebase Cloud Messaging (FCM): Yeni kitaplar, güncellemeler ve okuma hatırlatmaları için bildirim gönderimi sağlar.
+
+- Google AdMob: Uygulama içerisinde ilgi alanlarınıza uygun reklam gösterimi sağlamak amacıyla kullanılır.
+
+
+
+2. VERİLERİN KULLANIMI
+
+Toplanan veriler şu amaçlarla kullanılır:
+
+- Senkronizasyon: Cihaz değişikliği veya yeniden yükleme durumunda okuma geçmişinizin ve kaldığınız sayfanın korunmasını sağlamak.
+
+- Analiz ve İyileştirme: Uygulama performansını takip etmek ve oluşan hataları gidermek.
+
+- Kişiselleştirme: İlgi alanlarınıza uygun içerik ve reklam sunmak.
+
+
+
+3. GÜVENLİK
+
+Verilerinizin güvenliği bizim için önceliklidir. Uygulamamızda toplanan tüm veriler şifreli kanallar (HTTPS) üzerinden iletilir ve Google Firebase'in güvenli sunucularında muhafaza edilir.
+
+
+
+4. HESAP VE VERİ SİLME HAKLARI
+
+Kullanıcılar, kişisel verileri üzerinde tam kontrol sahibidir:
+
+- Uygulama İçi Silme: "Ayarlar" sekmesi altında bulunan "Hesabımı ve Verilerimi Kalıcı Olarak Sil" butonu ile bulut üzerindeki tüm okuma geçmişinizi, favorilerinizi ve hesap bilgilerinizi anında ve kalıcı olarak silebilirsiniz.
+
+- E-posta ile Talep: Hesabınızın ve verilerinizin silinmesi için yazilimvehayat@gmail.com adresine e-posta göndererek talepte bulunabilirsiniz. Talebiniz üzerine verileriniz en geç 7 iş günü içinde kalıcı olarak silinir.
+
+
+
+5. İLETİŞİM
+
+Sorularınız, bildirimleriniz veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:
+
+- E-posta: yazilimvehayat@gmail.com
